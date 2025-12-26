@@ -6,7 +6,7 @@
 
 - **_The game we'll be coding is a classic word-guessing game – Melting Snowman!_**
 
-- _HTML, CSS, and JavaScript are some of the most classic languages for web development. There’s a certain charm and simplicity that comes with the old-school building blocks, coupled with the fact that it's relatively simple for beginners to learn and get it up on a hosted website, which inspired this tutorial._
+- **_HTML, CSS, and JavaScript are some of the most classic languages for web development. There’s a certain charm and simplicity that comes with the old-school building blocks, coupled with the fact that it's relatively simple for beginners to learn and get it up on a hosted website, which inspired this tutorial._**
 
 - Using these beginner-friendly web development languages to code the game, we'll walk through each step of the process. Whether you're new to coding or a seasoned developer, you'll be able to follow along and create your own version of Melting Snowman.
 
