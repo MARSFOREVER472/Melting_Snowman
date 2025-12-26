@@ -4,7 +4,7 @@
 
 ### **_Have you ever wanted to create your own game to share with others on your website? In this article, we'll be learning how to code a simple game using HTML, CSS, and JavaScript, and then host it on your website._**
 
-- _The game we'll be coding is a classic word-guessing game – Melting Snowman!_
+- **_The game we'll be coding is a classic word-guessing game – Melting Snowman!_**
 
 - HTML, CSS, and JavaScript are some of the most classic languages for web development. There’s a certain charm and simplicity that comes with the old-school building blocks, coupled with the fact that it's relatively simple for beginners to learn and get it up on a hosted website, which inspired this tutorial.
 
