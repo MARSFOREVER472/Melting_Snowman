@@ -10,4 +10,4 @@
 
 - **_Using these beginner-friendly web development languages to code the game, we'll walk through each step of the process. Whether you're new to coding or a seasoned developer, you'll be able to follow along and create your own version of Melting Snowman._**
 
-- **_Plus, including projects in your summary when applying for a software or programming role can be a great way to boost your chances of landing a job._**
+- **_Additionally, including projects in your summary when applying for a software or programming role can be a great way to boost your chances of landing a job._**
