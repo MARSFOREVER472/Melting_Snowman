@@ -14,6 +14,6 @@
 
 ## **_Planning and Preparation_**
 
-- Before commencing with the coding of your Melting Snowman game, it is crucial to engage in planning and preparation.
+- **_Before commencing with the coding of your Melting Snowman game, it is crucial to engage in planning and preparation._**
 
 - This process involves choosing a programming language and development environment, collecting the necessary resources and tools required for coding the game, and determining the game's features and functionalities.
