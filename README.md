@@ -11,3 +11,8 @@
 - **_Using these beginner-friendly web development languages to code the game, we'll walk through each step of the process. Whether you're new to coding or a seasoned developer, you'll be able to follow along and create your own version of Melting Snowman._**
 
 - **_Additionally, including projects in your summary when applying for a software or programming role can be a great way to boost your chances of landing a job._**
+
+Planning and Preparation
+Before commencing with the coding of your Melting Snowman game, it is crucial to engage in planning and preparation.
+
+This process involves choosing a programming language and development environment, collecting the necessary resources and tools required for coding the game, and determining the game's features and functionalities.
