@@ -12,7 +12,7 @@
 
 - **_Additionally, including projects in your summary when applying for a software or programming role can be a great way to boost your chances of landing a job._**
 
-## Planning and Preparation
+## **_Planning and Preparation_**
 
 Before commencing with the coding of your Melting Snowman game, it is crucial to engage in planning and preparation.
 
