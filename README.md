@@ -18,7 +18,8 @@
 
 - **_This process involves choosing a programming language and development environment, collecting the necessary resources and tools required for coding the game, and determining the game's features and functionalities._**
 
-How to choose a programming language and development environment
+## How to choose a programming language and development environment
+
 Melting Snowman can be coded in many programming languages, including Python, Java, C++, and JavaScript. As mentioned, for this simple guide, we will code the game using HTML, CSS, and JavaScript, the popular web development languages.
 
 Doing so will also allow you to easily host your game on a variety of websites, including those of you who have websites created with no-code tools such as WordPress and Wix. With those, a simple plugin will allow you to easily host your game with minimal setup.
