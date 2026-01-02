@@ -8,3 +8,10 @@ function elegirPalabraAleatoria()
 {
     return words[Math.floor(Math.random() * words.length)];
 }
+
+function inicializarPartida()
+{
+    palabrasAAdivinar = selectRandomWord();
+    palabrasAdivinadas = Array(palabrasAAdivinar.length).fill('_');
+    adivinanzasErroneas = 0;
+}
