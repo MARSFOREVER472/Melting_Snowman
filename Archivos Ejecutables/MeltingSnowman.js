@@ -15,3 +15,8 @@ function inicializarPartida()
     palabrasAdivinadas = Array(palabrasAAdivinar.length).fill('_');
     adivinanzasErroneas = 0;
 }
+
+// GESTIONANDO ACTUALIZACIONES...
+
+updateWordDisplay();
+updateMeltingSnowmanGraphic();
