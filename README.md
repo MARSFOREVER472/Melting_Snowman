@@ -26,4 +26,4 @@
 
 - **_Aside from selecting a programming language, you'll also need to choose a development environment to write and test your code. Various popular options include Visual Studio Code, Sublime Text, and Atom._**
 
-- These development environments are available for free download and offer features such as syntax highlighting, code completion, and debugging tools.
+- **_These development environments are available for free download and offer features such as syntax highlighting, code completion, and debugging tools._**
