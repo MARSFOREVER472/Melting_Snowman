@@ -20,3 +20,12 @@ function inicializarPartida()
 
 updateWordDisplay();
 updateMeltingSnowmanGraphic();
+
+// ELIMINANDO BOTONES GENERADOS AUTOMÁTICAMENTE...
+
+const contenedorLetras = document.querySelector('.letters');
+
+while (contenedorLetras.firstChild)
+{
+    contenedorLetras.removeChild(contenedorLetras.firstChild);
+}
