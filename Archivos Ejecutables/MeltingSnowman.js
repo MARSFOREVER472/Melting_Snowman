@@ -29,3 +29,17 @@ while (contenedorLetras.firstChild)
 {
     contenedorLetras.removeChild(contenedorLetras.firstChild);
 }
+
+// GENERANDO LOS BOTONES DE CADA LETRA...
+
+for (let i = 0; i < 26; i++)
+{
+    const letra = String.fromCharCode(65 + i);
+    const boton = document.createElement('button');
+    boton.innerText = letra;
+    boton.addEventListener('click', function () {
+        handleGuess(letra);
+    });
+
+    contenedorLetras.appendChild(boton);
+}
