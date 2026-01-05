@@ -43,3 +43,8 @@ for (let i = 0; i < 26; i++)
 
     contenedorLetras.appendChild(boton);
 }
+
+// ELIMINANDO ALGUNOS DE LOS MENSAJES ACERCA DE LOS RESULTADOS DE UNA PARTIDA...
+
+const contenedorMensaje = document.querySelector('.message');
+contenedorMensaje.innerText = '';
