@@ -27,3 +27,11 @@
 - **_Aside from selecting a programming language, you'll also need to choose a development environment to write and test your code. Various popular options include Visual Studio Code, Sublime Text, and Atom._**
 
 - **_These development environments are available for free download and offer features such as syntax highlighting, code completion, and debugging tools._**
+
+How to gather resources and tools needed to code the game
+To efficiently code and host your Melting Snowman game, you'll need to assemble various resources and tools, including:
+
+A text editor or integrated development environment (IDE) to write your code
+A web browser to test your game
+Images to use as the Melting Snowman graphics
+Access to a web hosting service to host your game online
