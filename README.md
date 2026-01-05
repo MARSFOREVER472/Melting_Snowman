@@ -2,7 +2,7 @@
 
 ## **_How to Code a Simple Game and Host it on Your Website!_**
 
-### **_Have you ever wanted to create your own game to share with others on your website? In this article, we'll be learning how to code a simple game using HTML, CSS, and JavaScript, and then host it on your website._**
+### **_Have you ever wanted to create your own game to share with others on your website? In this article, we'll be learning how to code a simple game using HTML, CSS, and JavaScript, and then host it on your website:_**
 
 - **_The game we'll be coding is a classic word-guessing game – Melting Snowman!_**
 
@@ -30,7 +30,7 @@
 
 ## **_How to gather resources and tools needed to code the game_**
 
-### To efficiently code and host your Melting Snowman game, you'll need to assemble various resources and tools, including:
+### **_To efficiently code and host your Melting Snowman game, you'll need to assemble various resources and tools, including:_**
 
 A text editor or integrated development environment (IDE) to write your code
 A web browser to test your game
