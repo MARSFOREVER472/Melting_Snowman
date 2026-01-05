@@ -28,7 +28,7 @@
 
 - **_These development environments are available for free download and offer features such as syntax highlighting, code completion, and debugging tools._**
 
-How to gather resources and tools needed to code the game
+## How to gather resources and tools needed to code the game
 To efficiently code and host your Melting Snowman game, you'll need to assemble various resources and tools, including:
 
 A text editor or integrated development environment (IDE) to write your code
