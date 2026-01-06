@@ -2,7 +2,7 @@
 
 const words = ['DANIEL', 'JADUE', 'PARTIDO', 'COMUNISTA', 'CHILENO', 'ACCION', 'PROLETARIA'];
 
-// FUNCIÓN A DEFINIR EN ESTE APARTADO...
+// FUNCIONES A DEFINIR EN ESTE APARTADO...
 
 function elegirPalabraAleatoria()
 {
@@ -14,6 +14,12 @@ function inicializarPartida()
     palabrasAAdivinar = selectRandomWord();
     palabrasAdivinadas = Array(palabrasAAdivinar.length).fill('_');
     adivinanzasErroneas = 0;
+}
+
+function updateWordDisplay()
+{
+    const contenedorPalabras = document.querySelector('.word');
+    contenedorPalabras.innerText = palabrasAdivinadas.join(' ');
 }
 
 // GESTIONANDO ACTUALIZACIONES...
