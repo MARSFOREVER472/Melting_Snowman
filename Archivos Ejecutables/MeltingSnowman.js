@@ -22,10 +22,37 @@ function updateWordDisplay()
     contenedorPalabras.innerText = palabrasAdivinadas.join(' ');
 }
 
+function handleGuess(letra)
+{
+    // SI UNA LETRA ESTÁ DECIDIDAMENTE ADIVINADA, NO PODRÁS HACER NADA...
+
+    if (palabrasAdivinadas.includes(letra))
+    {
+        return;
+    }
+
+    // AÑADE UNA LETRA DENTRO DE LA LISTA DE PALABRAS YA ADIVINADAS...
+
+    palabrasAdivinadas.forEach((palabraAdivinada, index) => {
+
+        if (palabrasAAdivinar[index] === letra) {
+
+            palabrasAdivinadas[index] = letra;
+        }
+    });
+
+    // SI UNA LETRA NO ESTÁ INCLUIDA DENTRO DE LA PALABRA OCULTA, AUMETA EL NÚMERO DE PALABRAS ERRÓNEAS AL ACTUALIZARSE...
+
+    if (!palabrasAAdivinar.includes(letra))
+    {
+        adivinanzasErroneas++;
+        updateMeltingSnowmanGraphic();
+    }
+}
+
 // GESTIONANDO ACTUALIZACIONES...
 
 updateWordDisplay();
-updateMeltingSnowmanGraphic();
 
 // ELIMINANDO BOTONES GENERADOS AUTOMÁTICAMENTE...
 
