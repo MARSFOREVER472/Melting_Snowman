@@ -54,6 +54,10 @@ function handleGuess(letra)
 
 updateWordDisplay();
 
+// VERIFICA SI UNA PARTIDA GANA O PIERDE...
+
+verificarEstadoPartida();
+
 // ELIMINANDO BOTONES GENERADOS AUTOMÁTICAMENTE...
 
 const contenedorLetras = document.querySelector('.letters');
