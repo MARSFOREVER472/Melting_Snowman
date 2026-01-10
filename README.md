@@ -37,4 +37,5 @@
 - **_An web browser to test your game._**
   
 - **_Images to use as the Melting Snowman graphics._**
+  
 - **_Access to a web hosting service to host your game online._**
