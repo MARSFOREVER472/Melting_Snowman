@@ -33,6 +33,7 @@
 ### **_To efficiently code and host your Melting Snowman game, you'll need to assemble various resources and tools, including:_**
 
 - **_An text editor or Integrated Development Environment (IDE) to write your code._**
+  
 - **_An web browser to test your game._**
 - **_Images to use as the Melting Snowman graphics._**
 - **_Access to a web hosting service to host your game online._**
