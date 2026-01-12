@@ -16,7 +16,7 @@
 
 - **_Before commencing with the coding of your Melting Snowman game, it's crucial to engage in planning and preparation._**
 
-- **_This process involves choosing a programming language and development environment, collecting the necessary resources and tools required for coding the game, and determining the game's features and functionalities._**
+- **_This process involves choosing a programming language and development environment, collecting the necessary resources & tools required for coding the game, and determining the game's features and functionalities._**
 
 ## **_How to choose a programming language and Integrated Development Environment_**
 
