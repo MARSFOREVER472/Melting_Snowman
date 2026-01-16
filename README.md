@@ -40,7 +40,7 @@
   
 - **_Access to a web hosting service to host your game online._**
 
-How to choose the features and functionalities of the game
+## How to choose the features and functionalities of the game
 Before embarking on the coding process, you should decide on the features and functionalities of your Melting Snowman game. Some possible things to think about could include:
 
 The number of permissible guesses
