@@ -46,7 +46,7 @@
 
 - **_The number of permissible guesses._**
   
-- The inclusion of a timer option.
+- **_The inclusion of a timer option._**
   
 - The inclusion of a hint button option.
   
