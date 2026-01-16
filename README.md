@@ -48,7 +48,7 @@
   
 - **_The inclusion of a timer option._**
   
-- The inclusion of a hint button option.
+- **_The inclusion of a hint button option._**
   
 - The ability to select different word categories (for example animals, movies, sports).
   
