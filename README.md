@@ -44,7 +44,7 @@
 
 ### **_Before embarking on the coding process, you should decide on the features and functionalities of your Melting Snowman game. Some possible things to think about could include:_**
 
-- The number of permissible guesses.
+- **_The number of permissible guesses._**
   
 - The inclusion of a timer option.
   
