@@ -45,8 +45,13 @@
 ### **_Before embarking on the coding process, you should decide on the features and functionalities of your Melting Snowman game. Some possible things to think about could include:_**
 
 - The number of permissible guesses.
+  
 - The inclusion of a timer option.
+  
 - The inclusion of a hint button option.
+  
 - The ability to select different word categories (for example animals, movies, sports).
+  
 - The ability to keep score and track high scores.
+  
 - Once you've decided on the features and functionalities of your game, you can start coding the Melting Snowman game with HTML, CSS, and JavaScript.
