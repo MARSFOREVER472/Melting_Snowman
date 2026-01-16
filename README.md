@@ -54,4 +54,4 @@
   
 - **_The ability to keep score and track high scores._**
   
-- **_Once you've decided on the features and functionalities of your game, you can start coding the Melting Snowman game with HTML, CSS, and JavaScript._**
+- **_Once you've decided on the features and functionalities of your game, you can start coding the Melting Snowman game with HTML, CSS, & JavaScript._**
