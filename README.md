@@ -50,7 +50,7 @@
   
 - **_The inclusion of a hint button option._**
   
-- **_The ability to select different word categories (for example animals, movies and sports)._**
+- **_The ability to select different word categories (for example animals, movies or sports)._**
   
 - **_The ability to keep score and track high scores._**
   
