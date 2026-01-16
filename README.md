@@ -42,7 +42,7 @@
 
 ## _How to choose the features and functionalities of the game_
 
-### Before embarking on the coding process, you should decide on the features and functionalities of your Melting Snowman game. Some possible things to think about could include:
+### _Before embarking on the coding process, you should decide on the features and functionalities of your Melting Snowman game. Some possible things to think about could include:_
 
 - The number of permissible guesses.
 - The inclusion of a timer option.
