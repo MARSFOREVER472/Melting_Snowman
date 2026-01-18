@@ -40,7 +40,7 @@
   
 - **_Access to a web hosting service to host your game online._**
 
-## **_How to choose the features and functionalities of the game_**
+## **_How to choose the features and functionalities of this game_**
 
 ### **_Before embarking on the coding process, you should decide on the features and functionalities of your Melting Snowman game. Some possible things to think about could include:_**
 
