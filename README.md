@@ -61,8 +61,13 @@
 ### **_Now we’ve reached the fun part - coding! The process of game development is often long and arduous. But for this mini project, I have broken it all down into 5 simple steps. These will have you with your Melting Snowman game running in no time. They are:_**
 
 - **_Creating the HTML structure for the game._**
+  
 - **_Adding the CSS styling to make the game look visually appealing._**
+  
 - **_Writing the JavaScript code to implement the game logic and functionality._**
+  
 - **_Adding interactivity and animations._**
+  
 - **_Testing and debugging._**
+  
 - **_Let’s look at each of these steps in detail. Feel free to follow along and make any creative changes that you think of along the way._**
