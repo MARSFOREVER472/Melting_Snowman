@@ -64,5 +64,5 @@
 - **_Adding the CSS styling to make the game look visually appealing._**
 - **_Writing the JavaScript code to implement the game logic and functionality._**
 - **_Adding interactivity and animations._**
-- Testing and debugging.
+- **_Testing and debugging._**
 - Let’s look at each of these steps in detail. Feel free to follow along and make any creative changes that you think of along the way.
