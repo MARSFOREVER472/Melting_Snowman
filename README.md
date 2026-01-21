@@ -56,7 +56,7 @@
   
 - **_Once you've decided on the features and functionalities of this game, you can start coding the Melting Snowman game with HTML, CSS, & JavaScript._**
 
-## The 5 Steps to Coding a Game of Melting Snowman
+## **_The 5 Steps to Coding a Game of Melting Snowman_**
 
 ### Now we’ve reached the fun part - coding! The process of game development is often long and arduous. But for this mini project, I have broken it all down into 5 simple steps. These will have you with your Melting Snowman game running in no time. They are:
 
