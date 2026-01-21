@@ -58,7 +58,7 @@
 
 ## The 5 Steps to Coding a Game of Melting Snowman
 
-Now we’ve reached the fun part - coding! The process of game development is often long and arduous. But for this mini project, I have broken it all down into 5 simple steps. These will have you with your Melting Snowman game running in no time. They are:
+### Now we’ve reached the fun part - coding! The process of game development is often long and arduous. But for this mini project, I have broken it all down into 5 simple steps. These will have you with your Melting Snowman game running in no time. They are:
 
 Creating the HTML structure for the game
 Adding the CSS styling to make the game look visually appealing
