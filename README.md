@@ -60,7 +60,7 @@
 
 ### **_Now we’ve reached the fun part - coding! The process of game development is often long and arduous. But for this mini project, I have broken it all down into 5 simple steps. These will have you with your Melting Snowman game running in no time._**
 
-### They are:_**
+### **_They are:_**
 
 - **_Creating the HTML structure for the game._**
   
