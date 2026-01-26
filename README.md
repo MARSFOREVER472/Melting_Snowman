@@ -74,5 +74,6 @@
   
 - **_Let’s look at each of these steps in detail. Feel free to follow along and make any creative changes that you think of along the way._**
 
-How to Create the HTML Structure for the Game
+## How to Create the HTML Structure for the Game
+
 To begin creating the Melting Snowman game, you need to initiate a new text document and reserve it with the ".html" file extension. Embed the fundamental HTML5 structure into the document, typically consisting of these fields:
