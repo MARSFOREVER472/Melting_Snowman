@@ -93,4 +93,4 @@
 
 **_You can see that for this configuration, the HTML file is linked to a "```style.css```" stylesheet that we'll deal with in a bit._**
 
-**_After setting up the <head> section, you'll create a <body> section that will contain the content of the webpage. There can be many sections here, such as an instructions paragraph that teaches users how to play the game. This is a simple addition, and can be churned out easily with AI. Although, since we will be hosting this on your website, be sure to check it for AI content against possible penalizations._**
+**_After setting up the ```<head>``` section, you'll create a <body> section that will contain the content of the webpage. There can be many sections here, such as an instructions paragraph that teaches users how to play the game. This is a simple addition, and can be churned out easily with AI. Although, since we will be hosting this on your website, be sure to check it for AI content against possible penalizations._**
