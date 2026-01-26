@@ -90,3 +90,4 @@
 </body>
 </html>
 ```
+You can see that for this configuration, the HTML file is linked to a "style.css" stylesheet that we'll deal with in a bit.
