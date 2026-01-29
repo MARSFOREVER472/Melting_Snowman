@@ -24,7 +24,7 @@
 
 - **_Doing so will also allow you to easily host your game on a variety of websites, including those of you who have websites created with no-code tools such as WordPress and Wix. With those, a simple plugin will allow you to easily host your game with minimal setup._**
 
-- **_Aside from selecting a programming language, you'll also need to choose a development environment to write and test your code. Various popular options include Visual Studio Code, Sublime Text, and Atom._**
+- **_Aside from selecting a programming language, you'll also need to choose a development environment to write and test your code. Various popular options include Visual Studio Code, Sublime Text, & Atom._**
 
 - **_These development environments are available for free download and offer features such as syntax highlighting, code completion, and debugging tools._**
 
